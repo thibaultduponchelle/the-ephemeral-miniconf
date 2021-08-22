@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Planning
+## Planning
 
 |------------|-----------|----------------------|
 | Date       | Title     | Speaker              |
