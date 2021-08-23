@@ -5,11 +5,12 @@
 layout: home
 ---
 
-The *ephemeral miniconf* is a **Perl** and **Raku** miniconf that will take place **online** in **november the 18th**.
+The *ephemeral miniconf* is a **Perl** and **Raku** miniconf that will take place **online** in **Zoom** on ** 18 november the 2021**.
+
+Single day, single track, Perl, Raku and fun.
 
 
 ## Planning
-
 |---------------------|-----------|----------------------------|
 | Date                | Title     | Speaker                    |
 |---------------------|-----------|----------------------------|
@@ -29,5 +30,4 @@ The *ephemeral miniconf* is a **Perl** and **Raku** miniconf that will take plac
 |---------------------|-----------|----------------------------|
 | 18/11/2020 - 17h30  | ?         | ?                          |
 |---------------------|-----------|----------------------------|
-
 
