@@ -11,7 +11,6 @@ Single day, single track, Perl, Raku and fun.
 
 
 ## Planning
-|---------------------|-----------|----------------------------|
 | Date                | Title     | Speaker                    |
 |---------------------|-----------|----------------------------|
 | 18/11/2020 - 15h    | Keynote   | Thibault DUPONCHELLE       |
