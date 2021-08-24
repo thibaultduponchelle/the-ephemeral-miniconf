@@ -22,7 +22,7 @@ Not available yet
 | Date                | Title           | Speaker                    |
 |---------------------|-----------------|----------------------------|
 | 18/11/2021 - 15h    | Keynote         | Thibault Duponchelle       |
-| 12/09/2021 - 15h10  | ?               | Juan Julián Merelo Guervós |
+| 18/11/2021 - 15h10  | ?               | Juan Julián Merelo Guervós |
 | 18/11/2021 - 15h40  | ?               | Thibault Duponchelle       |
 | 18/11/2021 - 16h    | Lightning talks | Multiple authors           |
 | 18/11/2021 - 16h30  | ?               | Jose Joaquin Atria         |
