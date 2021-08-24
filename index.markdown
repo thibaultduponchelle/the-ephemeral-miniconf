@@ -27,5 +27,5 @@ Not available yet
 | 18/11/2020 - 15h40  | ?               | Thibault Duponchelle       |
 | 18/11/2020 - 16h    | Lightning talks | Multiple authors           |
 | 18/11/2020 - 16h30  | ?               | Jose Joaquin Atria         |
-| 18/11/2020 - 17h00  | ?               | ?                          |
+| 18/11/2020 - 17h00  | ?               | Stephane Gigandet          |
 | 18/11/2020 - 17h30  | ?               | ?                          |
