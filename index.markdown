@@ -13,6 +13,10 @@ It is a free event, just attend and enjoy :)
 
 Single day, single track, Perl, Raku and fun.
 
+## Zoom link
+
+Not available yet
+
 ## Planning
 
 | Date                | Title           | Speaker                    |
