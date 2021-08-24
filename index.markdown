@@ -17,11 +17,11 @@ Single day, single track, Perl, Raku and fun.
 
 | Date                | Title     | Speaker                    |
 |---------------------|-----------|----------------------------|
-| 18/11/2020 - 15h    | Keynote   | Thibault DUPONCHELLE       |
+| 18/11/2020 - 15h    | Keynote   | Thibault Duponchelle       |
 |---------------------|-----------|----------------------------|
 | 12/09/2020 - 15h10  | ?         | Juan Julián Merelo Guervós |
 |---------------------|-----------|----------------------------|
-| 18/11/2020 - 15h40  | Toolchain | Thibault DUPONCHELLE       |
+| 18/11/2020 - 15h40  | Toolchain | Thibault Duponchelle       |
 |---------------------|-----------|----------------------------|
 | 18/11/2020 - 16h    | Lightnings| Multi                      |
 |---------------------|-----------|----------------------------|
