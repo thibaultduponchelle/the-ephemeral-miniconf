@@ -21,11 +21,12 @@ Not available yet
 
 | Date                | Title           | Speaker                    |
 |---------------------|-----------------|----------------------------|
-| 18/11/2020 - 15h    | Keynote         | Thibault Duponchelle       |
-|---------------------|-----------------|----------------------------|
-| 12/09/2020 - 15h10  | ?               | Juan Julián Merelo Guervós |
-| 18/11/2020 - 15h40  | ?               | Thibault Duponchelle       |
-| 18/11/2020 - 16h    | Lightning talks | Multiple authors           |
-| 18/11/2020 - 16h30  | ?               | Jose Joaquin Atria         |
-| 18/11/2020 - 17h00  | ?               | Stephane Gigandet          |
-| 18/11/2020 - 17h30  | ?               | ?                          |
+| 18/11/2021 - 15h    | Keynote         | Thibault Duponchelle       |
+| 12/09/2021 - 15h10  | ?               | Juan Julián Merelo Guervós |
+| 18/11/2021 - 15h40  | ?               | Thibault Duponchelle       |
+| 18/11/2021 - 16h    | Lightning talks | Multiple authors           |
+| 18/11/2021 - 16h30  | ?               | Jose Joaquin Atria         |
+| 18/11/2021 - 17h00  | ?               | Stephane Gigandet          |
+| 18/11/2021 - 17h30  | ?               | Mark Gardner               |
+| 18/11/2021 - 18h00  | ?               | ?                          |
+| 18/11/2021 - 18h30  | ?               | ?                          |
