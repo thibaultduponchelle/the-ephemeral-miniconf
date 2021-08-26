@@ -28,5 +28,5 @@ Not available yet
 | 18/11/2021 - 16h30  | ?               | Jose Joaquin Atria         |
 | 18/11/2021 - 17h00  | ?               | Stephane Gigandet          |
 | 18/11/2021 - 17h30  | ?               | Mark Gardner               |
-| 18/11/2021 - 18h00  | ?               | ?                          |
+| 18/11/2021 - 18h00  | Lemon::LDAP     | Clement Oudot              |
 | 18/11/2021 - 18h30  | ?               | ?                          |
