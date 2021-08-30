@@ -25,8 +25,10 @@ Not available yet
 | 18/11/2021 - 15h10  | ?               | Juan Julián Merelo Guervós |
 | 18/11/2021 - 15h40  | ?               | Thibault Duponchelle       |
 | 18/11/2021 - 16h    | Lightning talks | Multiple authors           |
-| 18/11/2021 - 16h30  | ?               | Jose Joaquin Atria         |
+| 18/11/2021 - 16h30  | ?               | José Joaquín Atria         |
 | 18/11/2021 - 17h00  | Open Food Facts | Stephane Gigandet          |
 | 18/11/2021 - 17h30  | ?               | Mark Gardner               |
 | 18/11/2021 - 18h00  | Lemon::LDAP     | Clement Oudot              |
-| 18/11/2021 - 18h30  | Game and AI     | Adam Russel               |
+| 18/11/2021 - 18h30  | Game and AI     | Adam Russel                |
+
+[.](https://github.com/thibaultduponchelle/the-ephemeral-miniconf/)
