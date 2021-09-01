@@ -30,5 +30,6 @@ Not available yet
 | 18/11/2021 - 17h30  | ?               | Mark Gardner               |
 | 18/11/2021 - 18h00  | LemonLDAP::NG   | Clement Oudot              |
 | 18/11/2021 - 18h30  | Game and AI     | Adam Russel                |
+| 18/11/2021 - 19h00  | End             | Thibault Duponchelle       |
 
 [.](https://github.com/thibaultduponchelle/the-ephemeral-miniconf/)
