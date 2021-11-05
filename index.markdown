@@ -19,16 +19,16 @@ Not available yet
 
 ## Planning
 
-| Date                | Title                         | Speaker                    |
-|---------------------|-------------------------------|----------------------------|
-| 18/11/2021 - 15h    | Keynote                       | Thibault Duponchelle       |
-| 18/11/2021 - 15h10  | Native GitHub actions in Perl | Juan Julián Merelo Guervós |
-| 18/11/2021 - 15h40  | ?                             | Thibault Duponchelle       |
-| 18/11/2021 - 16h00  | FFI::Platypus                 | José Joaquín Atria         |
-| 18/11/2021 - 16h30  | Open Food Facts               | Stephane Gigandet          |
-| 18/11/2021 - 17h00  | ?                             | Mark Gardner               |
-| 18/11/2021 - 17h30  | LemonLDAP::NG                 | Clement Oudot              |
-| 18/11/2021 - 18h00  | Game and AI                   | Adam Russel                |
-| 18/11/2021 - 18h30  | End                           | Thibault Duponchelle       |
+| Date                | Title                           | Speaker                    |
+|---------------------|---------------------------------|----------------------------|
+| 18/11/2021 - 15h    | Keynote                         | Thibault Duponchelle       |
+| 18/11/2021 - 15h10  | Native GitHub actions in Perl   | Juan Julián Merelo Guervós |
+| 18/11/2021 - 15h40  | ?                               | Thibault Duponchelle       |
+| 18/11/2021 - 16h00  | Automatic metric instrumentation| José Joaquín Atria         |
+| 18/11/2021 - 16h30  | Open Food Facts                 | Stephane Gigandet          |
+| 18/11/2021 - 17h00  | ?                               | Mark Gardner               |
+| 18/11/2021 - 17h30  | LemonLDAP::NG                   | Clement Oudot              |
+| 18/11/2021 - 18h00  | Game and AI                     | Adam Russel                |
+| 18/11/2021 - 18h30  | End                             | Thibault Duponchelle       |
 
 [.](https://github.com/thibaultduponchelle/the-ephemeral-miniconf/)
