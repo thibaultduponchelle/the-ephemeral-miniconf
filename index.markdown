@@ -28,7 +28,6 @@ Not available yet
 | 18/11/2021 - 16h30  | Open Food Facts                 | Stephane Gigandet          |
 | 18/11/2021 - 17h00  | ?                               | Mark Gardner               |
 | 18/11/2021 - 17h30  | LemonLDAP::NG                   | Clement Oudot              |
-| 18/11/2021 - 18h00  | Game and AI                     | Adam Russel                |
-| 18/11/2021 - 18h30  | End                             | Thibault Duponchelle       |
+| 18/11/2021 - 18h00  | End                             | Thibault Duponchelle       |
 
 [.](https://github.com/thibaultduponchelle/the-ephemeral-miniconf/)
