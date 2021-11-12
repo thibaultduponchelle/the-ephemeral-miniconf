@@ -16,6 +16,7 @@ Single day, single track, Perl, Raku and fun.
 ## Zoom infos
 
 **Meeting ID: 818 6906 5466**
+
 **Pass: 42**
 
 ## Planning
