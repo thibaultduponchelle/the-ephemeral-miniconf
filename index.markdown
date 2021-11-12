@@ -13,9 +13,10 @@ It is a free event, just attend and enjoy :)
 
 Single day, single track, Perl, Raku and fun.
 
-## Zoom link
+## Zoom infos
 
-Not available yet
+**Meeting ID: 818 6906 5466**
+**Pass: 42**
 
 ## Planning
 
