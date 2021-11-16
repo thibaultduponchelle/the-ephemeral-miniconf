@@ -21,6 +21,8 @@ Single day, single track, Perl, Raku and fun.
 
 **Pass: 42**
 
+[Invitation link](https://us02web.zoom.us/j/81869065466?pwd=bzVFTVg1TWxBN0VOTFUwRmdPaTFuZz09)
+
 ## Planning
 
 | Date                | Title                                                   | Speaker                    |
