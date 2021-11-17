@@ -27,7 +27,7 @@ Single day, single track, Perl, Raku and fun.
 
 | Date                | Title                                                   | Speaker                    |
 |---------------------|---------------------------------------------------------|----------------------------|
-| 18/11/2021 - 15h    | Keynote                                                 | Thibault Duponchelle       |
+| 18/11/2021 - 15h00  | Keynote                                                 | Thibault Duponchelle       |
 | 18/11/2021 - 15h10  | Native GitHub actions in Perl                           | Juan Julián Merelo Guervós |
 | 18/11/2021 - 15h40  | Do you really know XML?                                 | Thibault Duponchelle       |
 | 18/11/2021 - 16h10  | Automatic Observability                                 | José Joaquín Atria         |
