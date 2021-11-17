@@ -7,9 +7,7 @@ layout: home
 
 The *ephemeral miniconf* is a **Perl** and **Raku** miniconf that will take place **online** on **18 november 2021**.
 
-It will start at **3pm** UTC+1 (Paris time) and will be virtual (in **Zoom**).
-
-It's planned at 3pm UTC+1(Paris time) so check the [timezone planner](https://everytimezone.com/s/ec3d1b5c) to know when it will be for you.
+It will start at **3pm** UTC+1 (Paris time) and will be virtual (in **Zoom**). Check the [timezone planner](https://everytimezone.com/s/ec3d1b5c) to know when it will be for you.
 
 It is a free event, just attend and enjoy :)
 
